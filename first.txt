@@ -2,3 +2,4 @@ This is my first file on Git training.
 This is my second.
 Test diff tool.
 insert new line.
+10 minutes to go home.
